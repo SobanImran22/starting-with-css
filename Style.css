@@ -1,0 +1,27 @@
+*{
+    background-color: cadetblue;
+    word-spacing: 44px;
+    line-height: 44px;
+}
+
+.abc{
+    background-image:  url("./image.png");
+    background-size: cover;
+    background-color: black;
+    color: azure;
+    font-family: cursive;
+    font-size: 66pt;
+    font-weight: lighter;
+    font-style: italic;
+    border-left: 22px outset red;
+    border-right: 22px outset rgb(4, 255, 0);
+    border-bottom: 22px outset blue;
+    border-top: 22px outset yellow;
+    border-radius: 222px;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    text-decoration: line-through red 10px dotted;
+    text-transform: capitalize;
+    
+}
